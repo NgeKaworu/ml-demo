@@ -1,0 +1,1 @@
+docker run -d --name jupyter -p 8888:8888 --net host --restart always -v $(pwd)/tf:/tf tensorflow/tensorflow:latest-jupyter
