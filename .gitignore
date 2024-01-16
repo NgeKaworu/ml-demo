@@ -1,1 +1,6 @@
 .DS_Store
+.7z
+.tar
+.prod
+.prod/*
+.prod/**/*
